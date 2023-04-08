@@ -266,9 +266,8 @@ table {
   .navbar {
     display: none;
   }
- .sidebar { 
-
-    position: relative;
+ .sidebar {
+    position: absolute;
     top: 0; bottom: 0; right: 0;
 }
   .table td,
